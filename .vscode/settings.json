@@ -1,6 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "files.associations": {
+        "jenkinsfile ": "groovy",
         "packagedef" : "bsl"
     },
     "editor.rulers": [ 120 ]
