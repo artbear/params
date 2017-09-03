@@ -24,15 +24,20 @@
         {
             "taskName": "Testing project",
             "args": [
-                 "1testrunner",
-                "-runall",
-                "${workspaceRoot}/tests"
+                 "opm",
+                 "test"
+                //  "1testrunner",
+                // "-runall",
+                // "${workspaceRoot}/tests"
             ],
-            "echoCommand": true,
-            "showOutput": "always",
+            // "echoCommand": true,
+            // "showOutput": "always",
             "suppressTaskName": true,
-            // "isBuildCommand": false,
-            "isTestCommand": false,
+            "isBuildCommand": true,
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
             "problemMatcher": {
                 "fileLocation": "absolute",
                 "pattern": {
@@ -77,7 +82,7 @@
             "echoCommand": true,
             "showOutput": "always",
             "suppressTaskName": true,
-            "isBuildCommand": true,
+            // "isBuildCommand": true,
             "isTestCommand": false,
             "problemMatcher": {
                 "fileLocation": "absolute",
@@ -227,7 +232,7 @@
             "echoCommand": true,
             "showOutput": "always",
             "suppressTaskName": true,
-            "isBuildCommand": true,
+            // "isBuildCommand": true,
             "problemMatcher": {
                 "fileLocation": "absolute",
                 "pattern": {
