@@ -1,7 +1,7 @@
 Чтение/запись параметров для скриптов OneScript
 ==
  
-Обсудить [![Join the chat at https://gitter.im/EvilBeaver/oscript-library](https://badges.gitter.im/EvilBeaver/oscript-library.svg)](https://gitter.im/EvilBeaver/oscript-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Обсудить [![Join the chat at https://gitter.im/EvilBeaver/oscript-library](https://badges.gitter.im/EvilBeaver/oscript-library.svg)](https://gitter.im/EvilBeaver/oscript-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![GitHub release](https://img.shields.io/github/release/artbear/params.svg)](https://github.com/artbear/params/releases) [![Build Status](http://build.oscript.io/buildStatus/icon?job=oscript-library/params/develop)](http://build.oscript.io/job/oscript-library/job/params/job/develop/)
 
 Описание 
 ===
